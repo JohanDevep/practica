@@ -1,0 +1,34 @@
+.button-menu {
+    align-items: flex-start;
+    border-radius: 18px;
+    display: inline-flex;
+    gap: 10px;
+    padding: 15px 20px;
+    position: relative;
+  }
+  
+  .button-menu .inicio-2 {
+    font-family: var(--body-link2-font-family);
+    font-size: var(--body-link2-font-size);
+    font-style: var(--body-link2-font-style);
+    font-weight: var(--body-link2-font-weight);
+    letter-spacing: var(--body-link2-letter-spacing);
+    line-height: var(--body-link2-line-height);
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .button-menu.hover {
+    background-color: #9a1b76;
+  }
+  
+  .button-menu.hover .inicio-2 {
+    color: var(--color-1);
+  }
+  
+  .button-menu.default .inicio-2 {
+    color: #ff007d;
+  }
+  

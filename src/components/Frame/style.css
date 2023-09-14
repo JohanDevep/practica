@@ -1,0 +1,67 @@
+.frame {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: #000000;
+    border-radius: 20px;
+    display: inline-flex;
+    position: relative;
+  }
+  
+  .frame .buscar-curso {
+    font-family: var(--body-font-family);
+    font-size: var(--body-font-size);
+    font-style: var(--body-font-style);
+    font-weight: var(--body-font-weight);
+    height: 50px;
+    letter-spacing: var(--body-letter-spacing);
+    line-height: var(--body-line-height);
+    margin-top: -1px;
+    position: relative;
+    width: 195px;
+  }
+  
+  .frame .text-wrapper-9 {
+    color: #120f0f66;
+    font-family: var(--body-font-family);
+    font-size: var(--body-font-size);
+    font-style: var(--body-font-style);
+    font-weight: var(--body-font-weight);
+    letter-spacing: var(--body-letter-spacing);
+    line-height: var(--body-line-height);
+  }
+  
+  .frame .text-wrapper-10 {
+    color: #120f0f;
+    font-family: var(--body-font-family);
+    font-size: var(--body-font-size);
+    font-style: var(--body-font-style);
+    font-weight: var(--body-font-weight);
+    letter-spacing: var(--body-letter-spacing);
+    line-height: var(--body-line-height);
+  }
+  
+  .frame .button-8 {
+    height: 45px !important;
+    margin-bottom: -17.5px !important;
+    margin-left: -17.5px !important;
+    margin-right: -17.5px !important;
+    margin-top: -17.5px !important;
+    position: relative !important;
+    width: 45px !important;
+  }
+  
+  .frame .button-instance {
+    border-radius: 0px 20px 20px 0px !important;
+    display: flex !important;
+    height: 50px !important;
+    width: 50px !important;
+  }
+  
+  .frame .default {
+    color: #120f0f66;
+  }
+  
+  .frame .variant-2 {
+    color: transparent;
+  }
+  

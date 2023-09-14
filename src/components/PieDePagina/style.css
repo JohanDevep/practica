@@ -1,0 +1,267 @@
+.pie-de-pagina {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/c95b576ae80580f6e5f0ffbbeecc569a/img/pie-de-pagina-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 764px;
+    position: relative;
+    width: 1727px;
+  }
+  
+  .pie-de-pagina .div {
+    align-items: center;
+    background-color: #df007ac9;
+    display: flex;
+    gap: 682px;
+    left: 1px;
+    padding: 24px 97px;
+    position: absolute;
+    top: 686px;
+    width: 1726px;
+  }
+  
+  .pie-de-pagina .frame-2 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 15px;
+    position: relative;
+  }
+  
+  .pie-de-pagina .solar-copyright {
+    height: 30px;
+    position: relative;
+    width: 30px;
+  }
+  
+  .pie-de-pagina .element-fundasoff-miss {
+    color: #412a56;
+    font-family: "Assistant", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .pie-de-pagina .text-wrapper {
+    color: #412a56;
+    font-family: "Assistant", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  
+  .pie-de-pagina .frame-3 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 30px;
+    margin-right: -21px;
+    position: relative;
+  }
+  
+  .pie-de-pagina .text-wrapper-2 {
+    color: #412a56;
+    font-family: "Assistant", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    text-decoration: underline;
+    width: fit-content;
+  }
+  
+  .pie-de-pagina .frame-4 {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 21px;
+    left: 217px;
+    position: absolute;
+    top: 93px;
+  }
+  
+  .pie-de-pagina .frame-5 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    justify-content: center;
+    position: relative;
+    width: 416px;
+  }
+  
+  .pie-de-pagina .logo-blanco {
+    height: 216px;
+    object-fit: cover;
+    position: relative;
+    width: 342px;
+  }
+  
+  .pie-de-pagina .impacto-de-nuestras {
+    color: #ffffff;
+    font-family: "Karla", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    height: 134px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: -4px;
+    position: relative;
+    width: 420px;
+  }
+  
+  .pie-de-pagina .frame-6 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 60px;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .pie-de-pagina .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Karla", Helvetica;
+    font-size: 40px;
+    font-weight: 800;
+    height: 47px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: 417px;
+  }
+  
+  .pie-de-pagina .frame-7 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 15px;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .pie-de-pagina .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Karla", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    height: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    text-decoration: underline;
+    width: 417px;
+  }
+  
+  .pie-de-pagina .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Karla", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    height: 65px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-decoration: underline;
+    width: 417px;
+  }
+  
+  .pie-de-pagina .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "Karla", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    height: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-decoration: underline;
+    width: 417px;
+  }
+  
+  .pie-de-pagina .p {
+    color: #ffffff;
+    font-family: "Karla", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-decoration: underline;
+    width: 417px;
+  }
+  
+  .pie-de-pagina .frame-8 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 60px;
+    position: relative;
+  }
+  
+  .pie-de-pagina .direcci-n-AV-a {
+    color: #ffffff;
+    font-family: "Karla", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    height: 65px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: 417px;
+  }
+  
+  .pie-de-pagina .span {
+    font-weight: 800;
+  }
+  
+  .pie-de-pagina .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Karla", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  
+  .pie-de-pagina .email-fundasoftmiss {
+    color: #ffffff;
+    font-family: "Karla", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: 476px;
+  }
+  
+  .pie-de-pagina .text-wrapper-8 {
+    font-size: 29px;
+  }
+  
+  .pie-de-pagina .div-2 {
+    color: #ffffff;
+    font-family: "Karla", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    height: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: 417px;
+  }
+  
+  .pie-de-pagina .img {
+    flex: 0 0 auto;
+    position: relative;
+  }
+  

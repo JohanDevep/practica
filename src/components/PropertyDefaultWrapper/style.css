@@ -1,0 +1,39 @@
+.property-default-wrapper {
+    align-items: center;
+    border-radius: 18px;
+    display: inline-flex;
+    padding: 20px 25px;
+    position: relative;
+  }
+  
+  .property-default-wrapper .label {
+    font-family: var(--body-link2-font-family);
+    font-size: var(--body-link2-font-size);
+    font-style: var(--body-link2-font-style);
+    font-weight: var(--body-link2-font-weight);
+    letter-spacing: var(--body-link2-letter-spacing);
+    line-height: var(--body-link2-line-height);
+    margin-top: -2px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .property-default-wrapper.property-1-1-hover {
+    background-color: #9a1b76;
+  }
+  
+  .property-default-wrapper.property-1-1-default {
+    border: 2px solid;
+    border-color: #9a1b76;
+  }
+  
+  .property-default-wrapper.property-1-1-hover .label {
+    color: var(--color-1);
+  }
+  
+  .property-default-wrapper.property-1-1-default .label {
+    color: #9a1b76;
+  }
+  

@@ -1,0 +1,1 @@
+export { IconLupaColorWhite } from "./IconLupaColorWhite";

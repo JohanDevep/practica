@@ -1,0 +1,1 @@
+export { PieDePagina } from "./PieDePagina";

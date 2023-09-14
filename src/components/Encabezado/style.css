@@ -1,0 +1,38 @@
+.encabezado {
+    background-color: #ffffff;
+    height: 150px;
+    position: relative;
+    width: 1728px;
+  }
+  
+  .encabezado .frame-9 {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 10px;
+    left: 383px;
+    position: absolute;
+    top: 46px;
+  }
+  
+  .encabezado .design-component-instance-node {
+    flex: 0 0 auto !important;
+  }
+  
+  .encabezado .frame-10 {
+    align-items: center;
+    display: inline-flex;
+    gap: 25px;
+    left: 979px;
+    position: absolute;
+    top: 41px;
+  }
+  
+  .encabezado .image {
+    height: 105px;
+    left: 21px;
+    object-fit: cover;
+    position: absolute;
+    top: 23px;
+    width: 309px;
+  }
+  
